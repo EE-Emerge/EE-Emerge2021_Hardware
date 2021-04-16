@@ -46,7 +46,7 @@ This will create a new root folder "EE-Emerge2020-FourFace" that will contain al
 
 # How to Get Help
 
-For help please contact one of the project [authors](#release-process).
+For help please contact one of the project [authors](graphs/contributors).
 
 
 # Authors
