@@ -118,6 +118,7 @@ ul {
 }
 .circle {
 	border-radius: 50%;
+	border-right: 2px
 }
 
 blockquote,
