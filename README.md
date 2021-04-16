@@ -1,9 +1,3 @@
----
-title: Readme
-layout: template
-filename: README
---- 
-
 # EE-Emerge 2021: Hardware
 
 ## Table of Contents
