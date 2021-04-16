@@ -120,6 +120,9 @@ ul {
 	border-radius: 50%;
 	border-right: 2px
 }
+a:link {
+  text-decoration: none;
+}
 
 blockquote,
 q {
