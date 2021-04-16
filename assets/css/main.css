@@ -116,6 +116,9 @@ ol,
 ul {
   list-style: none;
 }
+.circle {
+	border-radius: 50%;
+}
 
 blockquote,
 q {
