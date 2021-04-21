@@ -25,7 +25,7 @@ This project is [hosted on GitHub](https://github.com/EE-Emerge/EE-Emerge2021_Ha
 git clone https://github.com/EE-Emerge/EE-Emerge2021_Hardware
 ```
 
-This will create a new root folder "EE-Emerge2020-FourFace" that will contain all projects for Four Face.
+This will create a new root folder "EE-Emerge2020_Hardware".
 
 ## Installation
 
