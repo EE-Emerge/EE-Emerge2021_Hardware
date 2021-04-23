@@ -119,9 +119,7 @@ ul {
 .circle {
 	border-radius: 50%;
 	border-right: 2px;
-	width: 150px; 
-	height: 150px;
-	object-fit: cover;
+	
 }
 a:link {
   text-decoration: none;
