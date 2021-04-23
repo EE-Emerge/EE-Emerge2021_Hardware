@@ -120,6 +120,9 @@ ul {
 	border-radius: 50%;
 	border-right: 2px;
 	object-fit: cover;
+	width: 150px;
+	height: 150px;
+	padding-right: 20px;
 	
 }
 a:link {
